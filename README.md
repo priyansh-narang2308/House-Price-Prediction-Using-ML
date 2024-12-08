@@ -24,16 +24,12 @@ Python 3.7+
 Libraries: pandas, numpy, matplotlib, seaborn, sklearn, xgboost
 Install dependencies using pip:
 
-bash
-Copy code
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+```pip install pandas numpy matplotlib seaborn scikit-learn xgboost```
 Running the Project
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/house-price-prediction
-cd house-price-prediction
+```git clone https://github.com/your-username/house-price-prediction```
+```cd house-price-prediction```
 Open the Colab notebook: House Price Prediction Colab Notebook
 
 Follow the steps in the notebook to load the dataset, preprocess it, and train the model.
@@ -61,8 +57,6 @@ MAE: 23,456
 R-squared: 0.87
 
 
-Contributing
-Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
